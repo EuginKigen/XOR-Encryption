@@ -35,9 +35,6 @@ To encrypt the contents of a file named example.txt using the XOR key 'A' and sa
 
 This script is provided for educational and demonstrative purposes only. XOR encryption is a basic encryption technique and should not be used for sensitive data or security-critical applications. For secure encryption, consider using standard cryptographic libraries and algorithms.
 
-# License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Acknowledgments
 
